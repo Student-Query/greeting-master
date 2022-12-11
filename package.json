@@ -1,0 +1,22 @@
+{
+  "name": "greeting-master",
+  "version": "1.0.0",
+  "description": "Testing Hello World",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Student-Query/greeting-master.git"
+  },
+  "keywords": [
+    "greeting"
+  ],
+  "author": "studquery@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Student-Query/greeting-master/issues"
+  },
+  "homepage": "https://github.com/Student-Query/greeting-master#readme"
+}
